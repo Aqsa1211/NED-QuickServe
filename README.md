@@ -49,20 +49,14 @@ Visual crowd level indicators help students plan visits and avoid rush hours.
 ### 2. Personalized Recommendations
 Machine learning suggests food based on user history and environmental context (like weather).
 
-### 3. Cash-on-Delivery & Seamless Payments
-Supports both digital and cash payments to accommodate all users.
-
-### 4. Pre-ordering System
-Reduces wait times by allowing users to order in advance and receive timely updates.
-
-### 5. Inclusive Access
+### 3. Inclusive Access
 Specially-abled students can receive food deliveries at accessible campus locations.
 
-### 6. Operational Dashboard for Staff
-Cafeteria staff can view order analytics, forecast demand, and manage inventory effectively.
-
-### 7. Smart Campus Integration
+### 4. Smart Campus Integration
 Integrates with verified university logins and is scalable to support multiple cafeterias.
+
+### 5. Provides User Statistics
+Allows users to view their most ordered items and their average expenditure by month. Also allows them to keep track of their expenses by setting a monthly budget.
 
 ---
 
@@ -71,16 +65,13 @@ Integrates with verified university logins and is scalable to support multiple c
 - ⏱️ **Reduced wait times** improve student time management.
 - 🍱 **Tailored food experiences** increase satisfaction.
 - ♿ **Accessibility features** promote equity on campus.
-- 📊 **Analytics-driven management** helps staff operate efficiently.
-- 💻 **Supports NED’s digital transformation goals** with future-ready tech.
-
 ---
 
 ## 📱 Tech Stack
 
 - **Frontend**: Flutter (Dart)
 - **Backend**: Firebase Firestore, Firebase Auth
-- **ML**: Collaborative Filtering for Recommendations
+- **ML**: Collaborative Filtering, API (OpenWeater API) based filtering and Market Basket Analysis for Recommendations
 - **UI/UX**: Modern, Minimal, Accessible Design
 - **Tools**: SharedPreferences, Firebase Cloud Functions, GitHub
 
