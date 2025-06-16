@@ -11,9 +11,6 @@ NED QuickServe is a **smart cafeteria management and recommendation system** des
 - [🚀 Key Features](#-key-features)
 - [💡 Why This Matters](#-why-this-matters)
 - [📱 Tech Stack](#-tech-stack)
-- [📦 Setup Instructions](#-setup-instructions)
-- [📄 License](#-license)
-
 ---
 
 ## 📖 Background
